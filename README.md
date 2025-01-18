@@ -4,10 +4,14 @@ I'm a **Full-Stack Developer** passionate about crafting scalable, secure, and i
 
 ---
 
-## 💻 **What I Do**
-- Develop robust web applications using **C#, Python, JavaScript, ASP.NET Core, React**, and **Django**.
-- Design and deploy scalable cloud solutions with **Azure** and **AWS**.
-- Embrace best practices in **DevOps**, **agile development**, and **modern software engineering**.
+## 🛠 **Technologies I Work With**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
 
 ---
 
