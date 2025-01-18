@@ -31,7 +31,7 @@ I'm a **Full-Stack Developer** passionate about building scalable, secure, and i
 - **TASKIT**: Task management system with real-time collaboration features.
 - **IoT Monitor**: Scalable IoT data visualization platform with high uptime.
 
-[Explore more on my portfolio →](https://jaisheelpolimera.vercel.app/)
+[Explore more on my portfolio →][jaisheelpolimera.vercel.app](https://jaisheelpolimera.vercel.app/)
 
 ---
 
