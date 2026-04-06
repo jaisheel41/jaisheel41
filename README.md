@@ -1,14 +1,10 @@
-# Hi, I'm Sai Jaisheel Polimera
+# 👋 Hi, I'm Sai Jaisheel Polimera!
 
-Full-Stack Developer building scalable, secure, and impactful software. 
-I work across the full stack — from React and Next.js on the front end 
-to Django, ASP.NET Core, and cloud infrastructure on the back end. 
-I care about clean architecture, database security, and shipping things 
-that actually get used.
+I'm a **Full-Stack Developer** passionate about building scalable, secure, and impactful software solutions. With expertise across **front-end**, **back-end**, and **cloud technologies**, I create seamless user experiences and robust application architectures.
 
 ---
 
-## Technologies
+## 🛠 Technologies I Work With
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -26,78 +22,76 @@ that actually get used.
 
 ---
 
-## Featured Projects
+## 🚀 What I Do
 
-### Penny — Personal Finance Tracker
-A web-based finance tracker that shows you the full picture of your 
-money in one place. Tracks spending, investments, monthly commitments, 
-and goals with a countdown. Built with a real-time month-end forecast 
-so you know where you'll land before it's too late to change course.
-
-Key things I built and learned: Supabase magic link authentication 
-(no passwords, no credential storage), Row Level Security at the 
-database level so every user's data is completely isolated, and a 
-forecast engine that calculates your genuine free spending balance 
-after all committed outgoings.
-
-**Stack:** Next.js 14, TypeScript, Supabase, PostgreSQL, Tailwind, Vercel  
-**Live:** [saveapenny.vercel.app](https://saveapenny.vercel.app)  
-**Repo:** [github.com/jaisheel41/penny](https://github.com/jaisheel41/penny)
+- Build dynamic front-end applications with **Next.js**, **React** and **TypeScript**
+- Develop secure back-end systems with **Django**, **ASP.NET Core** and **REST APIs**
+- Design scalable cloud architectures using **AWS** and **Azure**
+- Ship full-stack products with **Supabase**, **PostgreSQL** and **Vercel**
 
 ---
 
-### Kitchen Express — Cloud Kitchen Management
-A mobile-first cloud kitchen management web app handling order 
-processing, payment tracking, expense management, and reporting. 
-Built for fast-paced kitchen operations with real-time updates.
+## 📦 Projects
 
-**Stack:** Next.js, TypeScript, Supabase  
-**Repo:** [github.com/jaisheel41/kitchen-express-app](https://github.com/jaisheel41/kitchen-express-app)
-
----
-
-### HydralQ — Hydration Tracking App
-An AI-powered hydration app that personalises water goals, sends 
-smart reminders, tracks daily progress, and delivers health insights. 
-Designed for iOS and Android with a focus on habit-forming UX.
-
-**Stack:** TypeScript, React Native  
-**Repo:** [github.com/yourusername/HydralQ](https://github.com/jaisheel41/HydralQ)
-
----
-
-### Sensor Dashboard — IoT Data Visualisation
-Real-time data visualisation platform for IoT sensors displaying 
-temperature, humidity, and air pressure across multiple locations. 
-Built to handle high-frequency data updates with minimal latency.
-
-**Stack:** React, JavaScript, AWS Amplify  
-**Repo:** [github.com/jaisheel41/sensor-dashboard](https://github.com/jaisheel41/sensor-dashboard)
-
----
-
-### TaskIt — Task and Project Management
-A collaborative task management platform with real-time team 
-communication, project tracking, and workflow automation built 
-for teams that need everything in one centralised system.
-
-**Stack:** JavaScript, TypeScript  
-**Repo:** [github.com/jaisheel41/TaskIt](https://github.com/jaisheel41/TaskIt)
-
----
-
-## What I focus on
-
-- Building full-stack applications with Next.js, React, and TypeScript
-- Secure back-end systems with proper auth, RLS, and data isolation
-- REST APIs with Django, ASP.NET Core, and Next.js route handlers
-- Cloud infrastructure and deployments on AWS, Azure, and Vercel
-- Database design with PostgreSQL and Supabase
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🪙 Penny</h3>
+      <p>A personal finance tracker that gives you the full picture of your money in one place. Track spending, investments, monthly commitments and goals — with a real-time forecast before the month ends.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <a href="https://saveapenny.vercel.app">🌐 Live Demo</a> &nbsp;|&nbsp;
+      <a href="https://github.com/jaisheel41/penny">📁 Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍽️ Kitchen Express</h3>
+      <p>A mobile-first cloud kitchen management app built for fast-paced kitchen operations. Handles order processing, payment tracking, expense management and reporting in real time.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <a href="https://github.com/jaisheel41/kitchen-express-app">📁 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📡 Sensor Dashboard</h3>
+      <p>Real-time IoT data visualisation platform displaying temperature, humidity and air pressure from multiple sensors across different locations. Built to handle high-frequency data with minimal latency.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+      </p>
+      <a href="https://github.com/jaisheel41/sensor-dashboard">📁 Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <p align="center" style="color: #888;">More projects coming soon</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Connect
+## 📫 Connect With Me
 
-**Portfolio:** [jaisheelpolimera.vercel.app](https://jaisheelpolimera.vercel.app)  
-**LinkedIn:** [Sai Jaisheel Polimera](https://www.linkedin.com/in/sai-jaisheel-polimera-4a170a1b8/)  
-**Email:** [jaisheel42@gmail.com](mailto:jaisheel42@gmail.com)
+<p align="left">
+  <a href="https://jaisheelpolimera.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/sai-jaisheel-polimera-4a170a1b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jaisheel42@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+⚡ *"Turning ideas into impactful code and scalable solutions."*
