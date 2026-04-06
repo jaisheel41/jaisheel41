@@ -45,7 +45,7 @@ I'm a **Full-Stack Developer** passionate about building scalable, secure, and i
         <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
       <a href="https://saveapenny.vercel.app" target="_blank">🌐 Live Demo</a> &nbsp;|&nbsp;
-      <a href="https://github.com/yourusername/penny" target="_blank">📁 Repo</a>
+      <a href="https://github.com/jaisheel41/penny" target="_blank">📁 Repo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🍽️ Kitchen Express</h3>
@@ -55,7 +55,7 @@ I'm a **Full-Stack Developer** passionate about building scalable, secure, and i
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       </p>
-      <a href="https://github.com/yourusername/kitchen-express-app" target="_blank">📁 Repo</a>
+      <a href="https://github.com/jaisheel41/kitchen-express-app" target="_blank">📁 Repo</a>
     </td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ I'm a **Full-Stack Developer** passionate about building scalable, secure, and i
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
       </p>
-      <a href="https://github.com/yourusername/sensor-dashboard" target="_blank">📁 Repo</a>
+      <a href="https://github.com/jaisheel41/sensor-dashboard" target="_blank">📁 Repo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 Smart Article Analyzer</h3>
@@ -78,7 +78,7 @@ I'm a **Full-Stack Developer** passionate about building scalable, secure, and i
         <img src="https://img.shields.io/badge/KeyBERT-764ABC?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/FLAN--T5-34A853?style=flat-square&logoColor=white" />
       </p>
-      <a href="https://github.com/yourusername/Smart-Article-Analyzer" target="_blank">📁 Repo</a>
+      <a href="https://github.com/jaisheel41/Smart-Article-Analyzer" target="_blank">📁 Repo</a>
     </td>
   </tr>
 </table>
