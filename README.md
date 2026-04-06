@@ -44,8 +44,8 @@ I'm a **Full-Stack Developer** passionate about building scalable, secure, and i
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
-      <a href="https://saveapenny.vercel.app">🌐 Live Demo</a> &nbsp;|&nbsp;
-      <a href="https://github.com/jaisheel41/penny">📁 Repo</a>
+      <a href="https://saveapenny.vercel.app" target="_blank">🌐 Live Demo</a> &nbsp;|&nbsp;
+      <a href="https://github.com/yourusername/penny" target="_blank">📁 Repo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🍽️ Kitchen Express</h3>
@@ -55,7 +55,7 @@ I'm a **Full-Stack Developer** passionate about building scalable, secure, and i
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       </p>
-      <a href="https://github.com/jaisheel41/kitchen-express-app">📁 Repo</a>
+      <a href="https://github.com/yourusername/kitchen-express-app" target="_blank">📁 Repo</a>
     </td>
   </tr>
   <tr>
@@ -67,11 +67,18 @@ I'm a **Full-Stack Developer** passionate about building scalable, secure, and i
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
       </p>
-      <a href="https://github.com/jaisheel41/sensor-dashboard">📁 Repo</a>
+      <a href="https://github.com/yourusername/sensor-dashboard" target="_blank">📁 Repo</a>
     </td>
     <td width="50%" valign="top">
-      <br/>
-      <p align="center" style="color: #888;">More projects coming soon</p>
+      <h3>🧠 Smart Article Analyzer</h3>
+      <p>A fully local, open-source AI tool that lets you upload a document, get a smart summary, extract keywords, ask detailed questions, and export a full report — all without an internet connection or API keys.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PEGASUS-FF6F00?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/KeyBERT-764ABC?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/FLAN--T5-34A853?style=flat-square&logoColor=white" />
+      </p>
+      <a href="https://github.com/yourusername/Smart-Article-Analyzer" target="_blank">📁 Repo</a>
     </td>
   </tr>
 </table>
@@ -81,13 +88,13 @@ I'm a **Full-Stack Developer** passionate about building scalable, secure, and i
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://jaisheelpolimera.vercel.app/">
+  <a href="https://jaisheelpolimera.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/sai-jaisheel-polimera-4a170a1b8/">
+  <a href="https://www.linkedin.com/in/sai-jaisheel-polimera-4a170a1b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:jaisheel42@gmail.com">
+  <a href="mailto:jaisheel42@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
